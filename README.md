@@ -23,8 +23,8 @@ The project uses the public [PokeAPI](https://pokeapi.co/) and is intended as a 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/PokeScreenshot1.png" width="300">
-  <img src="screenshots/PokeScreenshot2.png" width="300">
+  <img src="Screenshots/PokeScreenshot1.png" width="300">
+  <img src="Screenshots/PokeScreenshot2.png" width="300">
 </p>
 
 ## Technologies
